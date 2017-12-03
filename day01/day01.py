@@ -25,5 +25,7 @@ for line in input:
             total += int(char)
     
     print("Part 2:", total)
+
+input.close()
             
         
