@@ -1,0 +1,14 @@
+n + s = 0
+nw + sw = 0
+ne + se = 0
+
+sw + se = s
+nw + ne = n
+
+ne + s = se
+nw + s = sw
+se + n = ne
+sw + n = nw
+
+
+
